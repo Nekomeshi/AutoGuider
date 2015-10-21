@@ -4,7 +4,7 @@ import GuideCtrlDialog
 import wx
 
 class GuideCtrl:
-    __PWM_FREQ = 20 #Hz
+    __PWM_FREQ = 5 #Hz
     
     __GPIO_SPEED_SELECT = 16
     __GPIO_DU = 20
